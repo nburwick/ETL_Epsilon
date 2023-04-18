@@ -32,4 +32,4 @@ Our team selected to use a dataset from Kaggle titled IBM Transactions for Anti 
 Jupyter Notebook
 
 ## Relationships
-ERD - ".png"
+ERD - "project2.png"
