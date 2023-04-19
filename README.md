@@ -29,7 +29,14 @@ Our team selected to use a dataset from Kaggle titled IBM Transactions for Anti 
 - MongoDB
 
 ## Language Used
-Jupyter Notebook
+- Jupyter Notebook
+- Python
+- Pandas
+- Pymongo
+- SQLAlchemy
+- Regex
+- Threading
 
-## Relationships
+
+## ERD Relationships
 ![ERD](project2.png)
